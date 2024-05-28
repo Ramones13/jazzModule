@@ -1,5 +1,5 @@
 package jazzModule
 
 func Hello() string {
-	return "Hello, Dolly! v1.0.0"
+	return "Hello, Louis! v1.1.0"
 }
